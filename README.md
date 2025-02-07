@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/probinso/manubot-demo/tree/gh-pages) branch hosts the contents of this directory at <https://probinso.github.io/manubot-demo/>.
-The permalink for this webpage version is <https://probinso.github.io/manubot-demo/v/d69174d43f9e06635eabd7bfad7aeac76a92ea17/>.
+The permalink for this webpage version is <https://probinso.github.io/manubot-demo/v/e0614cb74c84a9c8881e47543301636b8c2a8e72/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://probinso.github.io/manubot-demo/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`d69174d43f9e06635eabd7bfad7aeac76a92ea17`](https://github.com/probinso/manubot-demo/commit/d69174d43f9e06635eabd7bfad7aeac76a92ea17).
+[`e0614cb74c84a9c8881e47543301636b8c2a8e72`](https://github.com/probinso/manubot-demo/commit/e0614cb74c84a9c8881e47543301636b8c2a8e72).
