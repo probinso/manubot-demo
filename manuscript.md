@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2025-02-07" />
   <meta name="citation_publication_date" content="2025-02-07" />
   <meta property="article:published_time" content="2025-02-07" />
-  <meta name="dc.modified" content="2025-02-07T23:35:50+00:00" />
-  <meta property="article:modified_time" content="2025-02-07T23:35:50+00:00" />
+  <meta name="dc.modified" content="2025-02-07T23:48:55+00:00" />
+  <meta property="article:modified_time" content="2025-02-07T23:48:55+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://probinso.github.io/manubot-demo/" />
   <meta name="citation_pdf_url" content="https://probinso.github.io/manubot-demo/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://probinso.github.io/manubot-demo/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://probinso.github.io/manubot-demo/v/759b738ccf84a22ae49cc4329323e02549349736/" />
-  <meta name="manubot_html_url_versioned" content="https://probinso.github.io/manubot-demo/v/759b738ccf84a22ae49cc4329323e02549349736/" />
-  <meta name="manubot_pdf_url_versioned" content="https://probinso.github.io/manubot-demo/v/759b738ccf84a22ae49cc4329323e02549349736/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://probinso.github.io/manubot-demo/v/57878e8c1bd7d2ae11cc6825343f32a570fb9d1d/" />
+  <meta name="manubot_html_url_versioned" content="https://probinso.github.io/manubot-demo/v/57878e8c1bd7d2ae11cc6825343f32a570fb9d1d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://probinso.github.io/manubot-demo/v/57878e8c1bd7d2ae11cc6825343f32a570fb9d1d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://probinso.github.io/manubot-demo/v/759b738ccf84a22ae49cc4329323e02549349736/))
+([permalink](https://probinso.github.io/manubot-demo/v/57878e8c1bd7d2ae11cc6825343f32a570fb9d1d/))
 was automatically generated
-from [probinso/manubot-demo@759b738](https://github.com/probinso/manubot-demo/tree/759b738ccf84a22ae49cc4329323e02549349736)
+from [probinso/manubot-demo@57878e8](https://github.com/probinso/manubot-demo/tree/57878e8c1bd7d2ae11cc6825343f32a570fb9d1d)
 on February 7, 2025.
 </em></small>
 
@@ -79,7 +79,8 @@ on February 7, 2025.
 
 ## Authorists
 
-<div w3-include-html="images/map.html"></div>
+<iframe src="images/map.html" width="100%" height="500px"></iframe>
+
 
 <table>
 <tr>
